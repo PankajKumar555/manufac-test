@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App].
 
 In the project directory, you can run:
 
-### `yarn run start`
+`yarn run start`
 
-### `always use yarn install first initialization of project`
+`always use yarn install first initialization of project`
+
+The below screen shot of tables-
+
+
