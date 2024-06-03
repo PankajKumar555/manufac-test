@@ -1,12 +1,14 @@
 This project was bootstrapped with [Create React App].
 
-## Available Scripts
+`always use yarn install in root folder first initialization of project`
 
-In the project directory, you can run:
+## Run Scripts
 
-`yarn run start`
+In the root directory, run command: `yarn run start`
 
-`always use yarn install first initialization of project`
+## Build Scripts
+
+In the root directory, run command: `yarn run build`
 
 The below screen shot of tables-
 
